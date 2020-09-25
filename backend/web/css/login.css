@@ -1,0 +1,9 @@
+.login-page,
+.register-page {
+    background-image: url(../img/user-img-background.png);
+    background-repeat: repeat-y;
+    background-size: 100% auto;
+    max-width: 720px;
+    margin: 5% auto;
+    overflow-x: hidden;
+}
